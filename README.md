@@ -1,8 +1,9 @@
-# Godot Game Demo
+# Dice Game
 
-[![Godot Tests (GUT)](https://github.com/brisberg/godot-game-demo/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/brisberg/godot-game-demo/actions/workflows/test.yml)
+[![Godot Tests (GUT)](https://github.com/brisberg/dice-game/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/brisberg/dice-game/actions/workflows/test.yml)
 
-This is a sample project skeleton for a GDScript based project for the [Godot Game Engine](https://godotengine.org/).
+Game built for [GMTK GameJam 2022](https://itch.io/jam/gmtk-jam-2022). Theme: `Roll of the Dice`
 
-Specifically, it shows setup setups for GUT Testing Framework and Github Actions integration.
+Project is built in [Godot Game Engine](https://godotengine.org/) and uses [GUT Framework](https://github.com/bitwes/Gut) for testing.
 
+Based on https://github.com/brisberg/godot-game-demo

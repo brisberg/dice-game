@@ -38,7 +38,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="godot-game-demo"
+config/name="Dice-game"
 config/icon="res://icon.png"
 
 [editor_plugins]
@@ -55,7 +55,4 @@ common/enable_pause_aware_picking=true
 
 [rendering]
 
-quality/driver/driver_name="GLES2"
-vram_compression/import_etc=true
-vram_compression/import_etc2=false
 environment/default_environment="res://default_env.tres"
